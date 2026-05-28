@@ -1,0 +1,16 @@
+{
+  "source": {
+    "size": 10784897187,
+    "mtime": 1778468223
+  },
+  "tokenizer": {
+    "size": 2091062,
+    "mtime": 1778468401
+  },
+  "vocab_size": 30000,
+  "dtype": "uint16",
+  "max_lines": null,
+  "separator_token": "[EOS]",
+  "total_lines": 47392080,
+  "total_tokens": 2159564298
+}

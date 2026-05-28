@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+Dataset/*.txt
+
+Dataset/*.bin
+
+*.pt
+*.pth
+
+venv/
+.env
+
+.vscode/
+
+.refact/
